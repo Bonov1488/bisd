@@ -1,5 +1,5 @@
 # bisd
-lab 6 
+
 import React, {useState} from 'react';
 import './App.css';
 import computer from './images/PC.jpg';
